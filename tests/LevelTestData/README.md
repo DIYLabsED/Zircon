@@ -1,1 +1,1 @@
-Test of levels/elements stored on GitHub
+Test of levels stored on GitHub
